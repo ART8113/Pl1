@@ -1,7 +1,7 @@
 // Designed by: A.R.T
 "use strict";
 // add elemnts
-const bgBody = ["#e5e7e9", "#ff4545", "#f8ded3", "#ffc382", "#f5eda6", "#ffcbdc", "#dcf3f3"];
+const bgBody = ["#96744F", "#523B39", "#523B39", "#523B39", "#B99541", "#8D8E96", "#88433A"];
 const body = document.body;
 const player = document.querySelector(".player");
 const playerHeader = player.querySelector(".player__header");
